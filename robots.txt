@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# DOMAIN: vervang https://stealr.app/ overal in site/ zodra het domein vaststaat
+Sitemap: https://stealr.app/sitemap.xml
